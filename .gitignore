@@ -8,3 +8,7 @@ input/
 __pycache__/
 *.py[cod]
 
+# Windows metadata
+*:Zone.Identifier
+
+ch02_05.ipynb
